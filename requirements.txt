@@ -1,0 +1,6 @@
+pandas
+python-telegram-bot==13.3
+telegram
+typing
+python-dotenv
+json
