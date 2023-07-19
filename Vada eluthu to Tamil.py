@@ -28,7 +28,7 @@ def handle_message(update, context):
         context.bot.send_message(chat_id=update.effective_chat.id, text="Word not found.")
 
 
-updater = Updater("6086803494:AAFNdSccXo0Cck0fG4FAtE83zXK8L2EJUn4", use_context=True)
+updater = Updater("", use_context=True)
 dispatcher = updater.dispatcher
 
 
